@@ -1,1 +1,1 @@
-used to creat folder
+used to create folder
